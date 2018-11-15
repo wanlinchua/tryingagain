@@ -93,6 +93,11 @@
 
     <dependencies>
         <dependency>
+    <groupId>us.springett</groupId>
+    <artifactId>nist-data-mirror</artifactId>
+    <version>1.2.0</version>
+</dependency>
+        <dependency>
             <groupId>org.apache.activemq</groupId>
             <artifactId>activemq-core</artifactId>
             <version>5.3.0</version>
